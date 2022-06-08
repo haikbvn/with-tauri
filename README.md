@@ -1,4 +1,4 @@
-# NextJS with Tauri example
+# Next.js with Tauri example
 
 This example shows how you can use Next.js inside an Tauri application to avoid a lot of configuration.
 
