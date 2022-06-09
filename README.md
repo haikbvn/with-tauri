@@ -6,12 +6,12 @@ When trying to run `npm start` it will build serve them on `localhost:3000`.
 
 ## How to use
 
-Clone the repo and run with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to start development:
+Execute [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
 
 ```bash
-npm install && npm start
+npx create-next-app --example https://github.com/haikbvn/with-tauri with-tauri-app
 # or
-yarn install && yarn start
+yarn create next-app --example https://github.com/haikbvn/with-tauri with-tauri-app
 # or
-pnpm install && pnpm start
+pnpm create next-app --example https://github.com/haikbvn/with-tauri with-tauri-app
 ```

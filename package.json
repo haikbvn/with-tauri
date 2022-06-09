@@ -1,5 +1,5 @@
 {
-  "name": "with-tauri",
+  "name": "with-tauri-app",
   "private": true,
   "dependencies": {
     "@tauri-apps/api": "^1.0.0-rc.6",
