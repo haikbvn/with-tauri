@@ -11,12 +11,15 @@
   "scripts": {
     "start": "tauri dev",
     "build": "next build && next export",
+    "lint": "next lint",
     "clean": "rimraf .next out",
     "bundle": "tauri build",
     "tauri": "tauri"
   },
   "devDependencies": {
     "@tauri-apps/cli": "^1.0.0",
+    "eslint": "8.18.0",
+    "eslint-config-next": "12.2.0",
     "rimraf": "^3.0.2"
   }
 }
