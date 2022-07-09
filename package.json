@@ -2,11 +2,11 @@
   "name": "with-tauri-app",
   "private": true,
   "dependencies": {
-    "@tauri-apps/api": "^1.0.1",
+    "@tauri-apps/api": "^1.0.2",
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "serve": "13.0.2"
+    "serve": "13.0.4"
   },
   "scripts": {
     "start": "tauri dev",
@@ -17,9 +17,9 @@
     "tauri": "tauri"
   },
   "devDependencies": {
-    "@tauri-apps/cli": "^1.0.2",
+    "@tauri-apps/cli": "^1.0.3",
     "eslint": "8.19.0",
-    "eslint-config-next": "12.2.0",
+    "eslint-config-next": "12.2.1",
     "rimraf": "^3.0.2"
   }
 }
