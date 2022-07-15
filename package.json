@@ -17,7 +17,7 @@
     "tauri": "tauri"
   },
   "devDependencies": {
-    "@tauri-apps/cli": "^1.0.3",
+    "@tauri-apps/cli": "^1.0.4",
     "eslint": "8.19.0",
     "eslint-config-next": "12.2.1",
     "rimraf": "^3.0.2"
