@@ -1,4 +1,5 @@
 # Next.js with Tauri example
+[![test-on-pr](https://github.com/haikbvn/with-tauri/actions/workflows/test.yml/badge.svg)](https://github.com/haikbvn/with-tauri/actions/workflows/test.yml)
 
 This example shows how you can use Next.js inside an Tauri application to avoid a lot of configuration.
 
