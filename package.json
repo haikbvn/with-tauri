@@ -6,7 +6,7 @@
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "serve": "14.1.1"
+    "serve": "14.1.2"
   },
   "devDependencies": {
     "@tauri-apps/cli": "^1.2.0",
