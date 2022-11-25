@@ -9,7 +9,7 @@
     "serve": "14.1.2"
   },
   "devDependencies": {
-    "@tauri-apps/cli": "^1.2.0",
+    "@tauri-apps/cli": "^1.2.1",
     "eslint": "8.28.0",
     "eslint-config-next": "13.0.5",
     "rimraf": "^3.0.2"
